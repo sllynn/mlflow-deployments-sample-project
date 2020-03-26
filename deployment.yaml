@@ -1,0 +1,3 @@
+model-name: mlflow_deployments_sample_project
+experiment-path: /Users/stuartlynn/tools/mlflow/experiments
+cloud: Azure
